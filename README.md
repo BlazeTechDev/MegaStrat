@@ -2,13 +2,13 @@
 MegaStrat was intended to be an RTS game written in JAVA using LWJGL. Though ultimately the project never saw completion, it did have some neat features
 
 ## Features
-* Custom OpenGL Deferred Renderering
-* A simple physics engine
+* OpenGL Deferred Renderering
+* minimal physics
 * terrain generation
 * object spawning and manipulation
-* An OOP based entity heirarchy
-* A custom OBJ loader
-* The start of a UI library (never was completed)
+* OOP based entity heirarchy
+* OBJ loading
+* the start of a UI library (never was completed)
 
 # Video Showcases
 > https://www.youtube.com/watch?v=QYe3zZPvY0M
